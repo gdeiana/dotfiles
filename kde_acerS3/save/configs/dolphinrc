@@ -1,0 +1,25 @@
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+PreviewSize=22
+
+[General]
+ShowSelectionToggle=false
+ShowSpaceInfo=false
+Version=201
+ViewPropsTimestamp=2022,4,7,15,19,43.731
+
+[IconsMode]
+FontWeight=50
+PreviewSize=22
+
+[MainWindow]
+LVDS-1 Height 1366x768=504
+LVDS-1 Width 1366x768=741
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=fontthumbnail,marblethumbnail,windowsexethumbnail,ebookthumbnail,kritathumbnail,imagethumbnail,blenderthumbnail,itinerarythumbnail,directorythumbnail,svgthumbnail,exrthumbnail,pothumbnail,ffmpegthumbs,comicbookthumbnail,appimagethumbnail,jpegthumbnail,gsthumbnail,quithumbnail,cursorthumbnail,rawthumbnail,mltpreview,webarchivethumbnail,audiothumbnail,mobithumbnail,opendocumentthumbnail,windowsimagethumbnail,djvuthumbnail,palathumbcreator
