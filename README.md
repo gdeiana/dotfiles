@@ -1,2 +1,2 @@
 # dotfiles
-Random dotfiles dropeed here
+Random dotfiles dropped here
