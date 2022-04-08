@@ -1,10 +1,7 @@
 [KFileDialog Settings]
-Recent Files[$e]=landscape-forest-monochrome-rock-nature-sky-789948-wallhere.com.jpg,file:$HOME/Downloads/arch_linux_icon_132588.png,file:$HOME/Downloads/macos-monterey-wwdc-21-stock-dark-mode-5k-6016x6016-5585.jpg,file:$HOME/Downloads/landscape-forest-monochrome-rock-nature-sky-789948-wallhere.com.jpg
-Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Pictures/,file:$HOME/
+Recent Files[$e]=landscape-forest-monochrome-rock-nature-sky-789948-wallhere.com.jpg,file:$HOME/Downloads/wp2787656-solid-black-wallpaper.jpg,file:$HOME/Downloads/z-s-nqVDLh2WLus-unsplash.jpg,file:$HOME/Downloads/cristina-gottardi-CSpjU6hYo_0-unsplash.jpg,file:$HOME/Downloads/Minimal Forest [FIXED].heif,file:$HOME/Downloads/arch_linux_icon_132588.png,file:$HOME/Downloads/macos-monterey-wwdc-21-stock-dark-mode-5k-6016x6016-5585.jpg,file:$HOME/Downloads/landscape-forest-monochrome-rock-nature-sky-789948-wallhere.com.jpg
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Pictures/,file:$HOME/,file:$HOME/Documents/
 detailViewIconSize=16
-
-[PlasmaTransientsConfig]
-PreloadWeight=26
 
 [PlasmaViews][Panel 2]
 alignment=1
@@ -12,13 +9,18 @@ panelOpacity=1
 panelVisibility=0
 
 [PlasmaViews][Panel 2][Defaults]
-maxLength=1366
-minLength=1366
+maxLength=1520
+minLength=1520
 thickness=28
 
 [PlasmaViews][Panel 2][Horizontal1366]
 maxLength=1366
 minLength=1366
+thickness=28
+
+[PlasmaViews][Panel 2][Horizontal1520]
+maxLength=1520
+minLength=1520
 thickness=28
 
 [Updates]

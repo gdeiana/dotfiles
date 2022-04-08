@@ -7,6 +7,7 @@ RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1]
 ItemGeometries-1366x768=
+ItemGeometries-1520x855=
 ItemGeometriesHorizontal=
 activityId=1947f405-c0ee-4f1c-8cb8-76dada91adc6
 formfactor=0
@@ -17,16 +18,16 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][1][ConfigDialog]
-DialogHeight=724
+DialogHeight=716
 DialogWidth=1366
 
 [Containments][1][General]
 ToolBoxButtonState=topcenter
-ToolBoxButtonX=277
+ToolBoxButtonX=359
 ToolBoxButtonY=28
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///home/guido/Downloads/macos-monterey-wwdc-21-stock-dark-mode-5k-6016x6016-5585.jpg
+Image=file:///home/guido/Downloads/wp2787656-solid-black-wallpaper.jpg
 SlidePaths=/usr/share/wallpapers
 
 [Containments][2]
@@ -191,8 +192,8 @@ PreloadWeight=100
 SystrayContainmentId=8
 
 [Containments][2][ConfigDialog]
-DialogHeight=82
-DialogWidth=1366
+DialogHeight=84
+DialogWidth=1520
 
 [Containments][2][General]
 AppletOrder=3;46;28;40;6;20;27;39;50;48;52;7
